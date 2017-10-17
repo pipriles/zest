@@ -1,0 +1,8 @@
+{
+  "name": "Zest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:pipriles/zest.git",
+  "author": "Oswaldo Capriles <oswald.capriles46@gmail.com>",
+  "license": "Apache License 2.0"
+}
