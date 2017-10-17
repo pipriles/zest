@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "git@github.com:pipriles/zest.git",
   "author": "Oswaldo Capriles <oswald.capriles46@gmail.com>",
-  "license": "Apache License 2.0"
+  "license": "Apache License 2.0",
+  "dependencies": {
+
+    "connect": "^3.6.5",
+    "serve-static": "^1.13.1"
+
+  }
 }
